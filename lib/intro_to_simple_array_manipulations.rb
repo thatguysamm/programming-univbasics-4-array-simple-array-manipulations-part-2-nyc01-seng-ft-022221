@@ -3,5 +3,5 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array,element)
-  new_array[4].instert(element)
+  array[4].instert(element)
 end
